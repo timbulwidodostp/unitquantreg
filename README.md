@@ -1,6 +1,8 @@
 # unitquantreg
 Parametric unit quantile regression models Use unitquantreg With (In) R Software
 
+https://www.youtube.com/watch?v=aN4eM61oa8Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
